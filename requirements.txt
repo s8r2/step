@@ -1,0 +1,8 @@
+flask
+requests
+gunicorn
+werkzeug
+jinja2
+click
+itsdangerous
+blinker
